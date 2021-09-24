@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlAndJsonExamples", "XmlAndJsonExamples\XmlAndJsonExamples.csproj", "{657B3F2C-6EDB-4366-93D4-A8D4E4E60C6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlAndJsonExamples", "XmlAndJsonExamples\XmlAndJsonExamples.csproj", "{657B3F2C-6EDB-4366-93D4-A8D4E4E60C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDynamicJsonOnRuntime", "CreateDynamicJsonOnRuntime\CreateDynamicJsonOnRuntime.csproj", "{2B555F2D-52AB-446B-89FF-826479061458}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{657B3F2C-6EDB-4366-93D4-A8D4E4E60C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657B3F2C-6EDB-4366-93D4-A8D4E4E60C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657B3F2C-6EDB-4366-93D4-A8D4E4E60C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B555F2D-52AB-446B-89FF-826479061458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B555F2D-52AB-446B-89FF-826479061458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B555F2D-52AB-446B-89FF-826479061458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B555F2D-52AB-446B-89FF-826479061458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
